@@ -1,4 +1,5 @@
 curos github
+varsion 1.1 Estilos aplicados en la página
 version 1.0
     src 
         style
